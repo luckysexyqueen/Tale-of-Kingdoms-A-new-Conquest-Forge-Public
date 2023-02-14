@@ -8,13 +8,7 @@ Please see the [contributing file](CONTRIBUTING.md)!
 
 Links
 =====
-Curseforge: https://www.curseforge.com/minecraft/mc-mods/tale-of-kingdoms-a-new-conquest
-
-Website: https://www.convallyria.com
-
-Discord: https://discord.gg/fh62mxU
-
-Server (Coming soon): beta.islandearth.net
+Curseforge: https://www.curseforge.com/minecraft/mc-mods/tale-of-kingdom-a-new-conquest-forge
 
 FAQ
 =====
